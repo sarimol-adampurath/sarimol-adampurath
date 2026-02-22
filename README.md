@@ -63,7 +63,7 @@ Hi there 👋🏻, I am Sari, I recently completed a Diploma in Fullstack Softwa
 |       2       |<p><a href="https://sari-rahul.github.io/online-quize/"><img src="https://github.com/sari-rahul/online-quize/blob/main/assets/images/amiresponsivequiz.png"></a></p><p>Javacsript Quiz</p>| A quiz website built in Javascript. |
 |       3       |<p><a href="https://peoples-bank-2e284f64d1c0.herokuapp.com/"><img src="https://github.com/sari-rahul/Peoples-Bank/blob/main/assets/amiresponsive.png"></a></p><p>Peoples Bank</p>| Python based online banking app with user and admin features. The programme uses Google Sheets as an external database to store all the user information. |
 |       4       |<p><a href="https://studen-study-portal-1.onrender.com/"><img src="https://github.com/sari-rahul/Studen-Study-Portal/blob/main/static/images/readme_images/amiresponsive.png"></a></p><p>Student Study Portal</p>| A website built in Django for student to store notes, create ToDo list, Ask question and create forum for discussion. . |
-|       5       |<p><a href="https://pawfect-pics-87d81c100ee5.herokuapp.com/"><img src="https://github.com/sari-rahul/Paws-and-Snaps/blob/main/docs/readme/pawsandsnapsmockup.png"></a></p><p>Paws&Snaps</p>| A pet blogging website built using ReactJS and Django Rest Framework. |
+|       5       |<p><a href="https://paws-and-snaps.onrender.com/"><img src="https://github.com/sari-rahul/Paws-and-Snaps/blob/main/docs/readme/pawsandsnapsmockup.png"></a></p><p>Paws&Snaps</p>| A pet blogging website built using ReactJS and Django Rest Framework. |
 
 
 <!---
