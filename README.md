@@ -19,7 +19,7 @@ Hi there 👋🏻, I am Sari, I recently completed a Diploma in Fullstack Softwa
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
+![Figma](https://img.shields.io/badge/Figma%20-%23000000.svg?&style=for-the-badge&logo=Figma&logoColor=B41717)
 
 
 #### 📚 Libraries & Frameworks
