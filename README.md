@@ -5,6 +5,7 @@ Hi there 👋🏻, I am Sari, I recently completed a Diploma in Fullstack Softwa
 
 
 ---
+[Portfolio](https://portfolio-4d1j.vercel.app/)
 ### My Tech Stack
 
 #### Programming Languages
@@ -56,14 +57,8 @@ Hi there 👋🏻, I am Sari, I recently completed a Diploma in Fullstack Softwa
 ![GitPod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### Milestone Projects for Code Institute Diploma
 
-| Milestone No. |   Project  |  Description |
-| :-----------: | :--------: | :----------: |
-|       1       |<p><a href="https://sari-rahul.github.io/cakes-and-cookies/"><img src="https://github.com/sari-rahul/cakes-and-cookies/blob/main/assets/images/amiresponsive.png"></a></p><p>Cakes&Cookies</p>| A website built using HTML and CSS for and imaginary cake business|
-|       2       |<p><a href="https://sari-rahul.github.io/online-quize/"><img src="https://github.com/sari-rahul/online-quize/blob/main/assets/images/amiresponsivequiz.png"></a></p><p>Javacsript Quiz</p>| A quiz website built in Javascript. |
-|       3       |<p><a href="https://peoples-bank-2e284f64d1c0.herokuapp.com/"><img src="https://github.com/sari-rahul/Peoples-Bank/blob/main/assets/amiresponsive.png"></a></p><p>Peoples Bank</p>| Python based online banking app with user and admin features. The programme uses Google Sheets as an external database to store all the user information. |
-|       4      |<p><a href="https://paws-and-snaps.onrender.com/"><img src="https://github.com/sari-rahul/Paws-and-Snaps/blob/main/docs/readme/pawsandsnapsmockup.png"></a></p><p>Paws&Snaps</p>| A pet blogging website built using ReactJS and Django Rest Framework. |
+|
 
 
 <!---
